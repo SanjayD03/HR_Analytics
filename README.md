@@ -95,3 +95,11 @@ Based on the analysis of the given dataset, the major hypothetical factors influ
 - **Other Personal Factors:** Personal factors like age, proximity to home, and marital status can also be leveraged when developing a hiring strategy for the organization.
 
 By considering these factors and taking appropriate measures, a company can reduce its attrition rate.
+
+## Support
+👨‍🚀 Show your support
+Give a ⭐️ if this project helped you!
+## Feedback
+- If you have any feedback, please reach out to me 😃(https://www.linkedin.com/in/sanjay-divate/)
+- Your feedback is incredibly valuable to me, and I genuinely appreciate your time and support in helping me make this project better.
+
